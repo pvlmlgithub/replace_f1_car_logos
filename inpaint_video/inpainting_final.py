@@ -5,7 +5,7 @@ import os
 image_dir = 'input'
 mask = 'mask/mask1.jpg'
 output = 'output'
-
+#
 #video_path = 'video_input.mp4'
 #cap = cv2.VideoCapture(video_path)
 
